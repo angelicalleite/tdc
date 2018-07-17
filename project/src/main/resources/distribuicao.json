@@ -1,0 +1,23 @@
+{
+  "endemism": "Not endemic to Brazil",
+  "phytogeographicDomain": [
+    "Pantanal",
+    "Atlantic Rainforest",
+    "Central Brazilian Savanna",
+    "Caatinga",
+    "Amazon Rainforest"
+  ],
+  "vegetationType": [
+    "Caatinga (stricto sensu)",
+    "Amazonian Campinarana",
+    "Cerrado (lato sensu)",
+    "Riverine Forest and/or Gallery Forest",
+    "Inundated Forest (Igapó)",
+    "Terra Firme Forest",
+    "Inundated Forest (Várzea)",
+    "Seasonally Semideciduous Forest",
+    "Ombrophyllous Forest (Tropical Rain Forest)",
+    "Coastal Forest (Restinga)",
+    "Anthropic area"
+  ]
+}
